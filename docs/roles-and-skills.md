@@ -68,8 +68,6 @@ Based on the roles above, the following technical skills and practices are essen
 
 ## My chosen role
 
-### Role
-
 Cyber Security Specialist
 
 ### Skills I already have
@@ -118,3 +116,7 @@ Cyber Security Specialist
 - **Malware Evasion Techniques** (Specific to the Threat Hunting role)
 - **Technical Presales** (RFP/RFI preparation, PoC deployment)
 - **CTF/HackTheBox experience** (Explicitly mentioned as a plus for the Red Team role)
+
+## Personal reflection
+
+I chose the Cyber Security Specialist role because I enjoy understanding how systems work internally and finding ways to secure them against vulnerabilities. Compared to the market demands, I have a strong foundation in programming (C++, Python) and basic OS knowledge, but I lack specific security tools experience (SIEM, Burp Suite) and deep networking knowledge. This semester, I plan to focus on Computer Networking (TCP/IP, OSI) and Linux Administration, as these are the most critical "missing links" in my skillset required by almost every job posting I analyzed. Mastering these will allow me to start practicing on platforms like TryHackMe more effectively.
