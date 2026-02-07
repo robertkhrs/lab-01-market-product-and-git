@@ -3,10 +3,9 @@
 ## Components and roles
 
 - **Mobile App (Client)**
-  - Mobile Engineer (iOS)
-  - Mobile Engineer (Android)
+  - Mobile Engineer (iOS/Android)
   - QA Automation Engineer (Mobile)
-  - UI/UX Designer (Technical impl.)
+  - UI/UX Designer
 
 - **API Gateway**
   - Backend Engineer (Go/C++)
@@ -14,57 +13,49 @@
   - DevOps Engineer
 
 - **Auth Service**
-  - Backend Engineer (Identity/Security focus)
+  - Backend Engineer (Identity focus)
   - Database Administrator (DBA)
   - Security Engineer
 
 - **Order Service**
-  - Backend Engineer (Generalist)
+  - Backend Engineer
   - QA Engineer (API/Integration)
   - Database Administrator
 
 - **Dispatch / Matching Engine**
   - Data Scientist / ML Engineer
-  - Backend Engineer (High performance/Algorithms)
+  - Backend Engineer (Algorithms focus)
   - Data Engineer
-
-- **Infrastructure & Deployment (General)**
-  - Site Reliability Engineer (SRE)
-  - DevOps Engineer
-  - Cloud Platform Engineer
 
 ## Roles and responsibilities
 
 1. **Mobile Engineer (iOS/Android)**
     - Develops and maintains the user-facing application, ensuring high performance and smooth animations.
-    - Implements UI screens based on designs and integrates with backend APIs to fetch data (rides, prices).
+    - Implements UI screens based on designs and integrates with backend APIs.
 
 2. **Backend Engineer**
     - Designs and implements server-side logic, microservices, and APIs.
-    - Optimizes database queries and ensures the services can handle high concurrency (thousands of requests per second).
+    - Optimizes database queries and ensures services handle high concurrency.
 
 3. **DevOps / Site Reliability Engineer (SRE)**
-    - Manages the cloud infrastructure (Kubernetes, Docker) and CI/CD pipelines.
-    - Monitors system health, sets up alerts, and ensures high availability and scalability of the platform.
+    - Manages cloud infrastructure (Kubernetes, Docker) and CI/CD pipelines.
+    - Monitors system health and ensures high availability.
 
 4. **QA Automation Engineer**
-    - Writes automated tests (unit, integration, end-to-end) to prevent regressions.
-    - Maintains the testing infrastructure and ensures the quality of releases before they reach production.
+    - Writes automated tests (unit, integration, e2e) to prevent regressions.
+    - Maintains the testing infrastructure and quality of releases.
 
-5. **Data Scientist / ML Engineer**
-    - Develops and trains machine learning models for dynamic pricing, dispatch matching, and route optimization.
-    - Analyzes historical data to improve the efficiency of the marketplace algorithms.
+5. **Security Engineer (Red Team / Blue Team)**
+    - Conducts penetration testing and vulnerability assessments.
+    - Monitors security incidents and implements defense mechanisms.
 
 ## Common skills across roles
 
-Based on the roles above, the following technical skills and practices are essential across the team:
-
-- **Version Control:** Proficiency with Git (branching, merging, pull requests).
-- **API Knowledge:** Understanding of RESTful APIs, HTTP methods, and JSON data formats.
-- **Agile Methodologies:** Experience working in Scrum/Kanban, using task trackers (Jira/YouTrack).
-- **Containerization:** Basic understanding of Docker and how applications are containerized.
-- **Problem Solving:** Ability to debug complex issues and read system logs.
-- **Collaboration:** Code review practices and writing technical documentation.
+- **Version Control:** Git (branching, merging, pull requests).
+- **API Knowledge:** RESTful APIs, HTTP methods, JSON.
+- **Containerization:** Docker basics.
+- **Problem Solving:** Debugging, reading logs.
+- **Collaboration:** Code review, technical documentation.
 
 ## My chosen role
 
@@ -89,6 +80,8 @@ Cyber Security Specialist
 - **Containerization** (Docker, Kubernetes basics, isolation principles)
 
 ## Job market snapshot
+
+### Analyzed Vacancies
 
 1. **Red Team Analyst (PT Cyber ​​Analytics)** - [link to hh.ru](https://hh.ru/vacancy/130221306?query=Cyber+security&hhtmFrom=vacancy_search_list)
    - **Key Skills:** OWASP/CWE, MITRE ATT&CK, Windows/Linux Security, CVSS, Technical Reporting (MS Office), TryHackMe/HTB experience.
