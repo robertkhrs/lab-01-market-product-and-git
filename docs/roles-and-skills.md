@@ -59,9 +59,7 @@
 
 ## My chosen role
 
-### Role
-
-Cyber Security Specialist (Red Team Analyst)
+Cyber Security Specialist
 
 ### Skills I already have
 
