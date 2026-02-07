@@ -118,3 +118,7 @@ Cyber Security Specialist
 - **Malware Evasion Techniques** (Specific to the Threat Hunting role)
 - **Technical Presales** (RFP/RFI preparation, PoC deployment)
 - **CTF/HackTheBox experience** (Explicitly mentioned as a plus for the Red Team role)
+
+## Personal reflection
+
+I decided to pursue the Cyber Security path because it perfectly aligns with my interest in how systems work under the hood, specifically in C++ and OS internals. Analyzing the job market revealed that while I have a solid foundation in programming and algorithms, I critically lack practical knowledge in Computer Networking (TCP/IP, OSI) and Linux Administration, which are required for almost every role. I was surprised to see how much emphasis is placed on formal frameworks like MITRE ATT&CK even for junior positions. To bridge the gap, I plan to focus this semester on mastering Linux command-line tools and understanding network protocols. I also intend to start practicing on platforms like HackTheBox to gain the specific "Red Team" experience mentioned in the job postings.
