@@ -83,6 +83,19 @@ Cyber Security Specialist (Red Team Analyst)
 
 ## Job market snapshot
 
+### Analyzed Vacancies
+
+1. **Red Team Analyst (PT Cyber ​​Analytics)** - [link to hh.ru](https://hh.ru/vacancy/130221306?query=Cyber+security&hhtmFrom=vacancy_search_list)
+   - **Key Skills:** OWASP/CWE, MITRE ATT&CK, Windows/Linux Security, CVSS, Technical Reporting (MS Office), TryHackMe/HTB experience.
+2. **Solutions Expert SIEM/XDR (Kaspersky)** - [link to hh.ru](https://hh.ru/vacancy/130214524?query=Cyber+security&hhtmFrom=vacancy_search_list)
+   - **Key Skills:** SIEM/XDR/SOAR deployment, Linux/Windows administration, Virtualization & Containerization, MITRE ATT&CK/Cyber Kill Chain, Scripting (PowerShell, Bash, SQL, REST API), English B2+.
+3. **Threat Hunting Expert / SOC (Locia)** - [link to hh.ru](https://hh.ru/vacancy/129961546?query=Cyber+security&hhtmFrom=vacancy_search_list)
+   - **Key Skills:** MITRE ATT&CK/Cyber Kill Chain, Hunting Maturity Model (HMM), SIEM/EDR/TI platforms, Network traffic & OS log analysis, Scripting (Python, PowerShell), Malware evasion techniques.
+4. **Solutions Expert Network Security (Kaspersky)** - [link to hh.ru](https://hh.ru/vacancy/129879447?query=Cyber+security&hhtmFrom=vacancy_search_list)
+   - **Key Skills:** Network Security (NGFW, IPS, VPN, ZTNA), TCP/IP & Routing, Linux/Ansible, Docker/Kubernetes basics, MITRE ATT&CK, Traffic analysis/Troubleshooting, English B2+.
+5. **Leading Specialist IS Operation ICS/SCADA (RG-Service)** - [link to hh.ru](https://hh.ru/vacancy/127140624?query=Cyber+security&hhtmFrom=vacancy_search_list)
+   - **Key Skills:** ICS/SCADA Security, Russian Security Tools (Secret Net Studio, UserGate, Continent, Kaspersky ICS), FSTEK/187-FZ regulations, Network protocols (IPsec, AD, OSI), CII protection.
+
 ### Skills that appear in several postings
 
 - **MITRE ATT&CK & Cyber Kill Chain** (mentioned in almost every analysis/expert role)
