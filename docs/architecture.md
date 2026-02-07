@@ -8,9 +8,9 @@
 
 ## Main components
 
-![Yandex Go Component Diagram](../diagrams/out/yandex-go/architecture-component/Component%20Diagram.svg)
+![Yandex Go Component Diagram](./diagrams/out/yandex-go/architecture-component/architecture-component.svg)
 
-[Link to PlantUML code](../diagrams/src/yandex-go/architecture-component.puml)
+[Link to PlantUML code](./diagrams/src/yandex-go/architecture-component.puml)
 
 ### Component Descriptions
 
@@ -22,9 +22,9 @@
 
 ## Data flow
 
-![Yandex Go Sequence Diagram](../diagrams/out/yandex-go/architecture-sequence/architecture-sequence.svg)
+![Yandex Go Sequence Diagram](./diagrams/out/yandex-go/architecture-sequence/architecture-sequence.svg)
 
-[Link to PlantUML code](../diagrams/src/yandex-go/architecture-sequence.puml)
+[Link to PlantUML code](./diagrams/src/yandex-go/architecture-sequence.puml)
 
 ### Interaction Description
 
@@ -39,9 +39,9 @@ This sequence describes the flow when a user requests a ride.
 
 ## Deployment
 
-![Yandex Go Deployment Diagram](../diagrams/out/yandex-go/architecture-deployment/architecture-deployment.svg)
+![Yandex Go Deployment Diagram](./diagrams/out/yandex-go/architecture-deployment/architecture-deployment.svg)
 
-[Link to PlantUML code](../diagrams/src/yandex-go/architecture-deployment.puml)
+[Link to PlantUML code](./diagrams/src/yandex-go/architecture-deployment.puml)
 
 ### Deployment Description
 
